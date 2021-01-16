@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm currently working on IglooSecurity of South Korea and learning Information security.
+
+Ask me about : hs.ignatius.kim@gmail.com.
