@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-### I'm currently working on IglooSecurity of South Korea and learning Information security.
+<!-- ### I'm currently working on IglooSecurity of South Korea and learning Information security. -->
 
 ### Ask me about : hs.ignatius.kim@gmail.com.
