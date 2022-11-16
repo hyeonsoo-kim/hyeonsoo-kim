@@ -1,2 +1,2 @@
-## Welcome to Hyeonsoo Kim (Geumosanturtle)'s Reposiroty
+## Welcome to Hyeonsoo Kim's Reposiroty
 
